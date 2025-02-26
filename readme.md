@@ -16,6 +16,7 @@
 - Упорядочными
 
 ## Проверим как там код отображается
+
 `public class Main {
     public static void main(String[] args) {
     }
@@ -23,6 +24,7 @@
 `
 
 Так и нужно сслыки посмотреть, пожалуй выделим их в подзаголовок.
+
 ###[JediLo GitHub](https://github.com/JediLo)
 
 ---
