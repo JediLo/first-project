@@ -25,7 +25,7 @@
 
 Так и нужно сслыки посмотреть, пожалуй выделим их в подзаголовок.
 
-###[JediLo GitHub](https://github.com/JediLo)
+### [JediLo GitHub](https://github.com/JediLo)
 
 ---
 
